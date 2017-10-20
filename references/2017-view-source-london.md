@@ -1,8 +1,12 @@
 # Keeping your design system alive
 
-Event: View Source London
-Date: 27 October 2017
-Location: London, UK
+## Event details
+
+- Name: View Source London
+- Date: 27 October 2017
+- Location: London, UK
+
+## Links (in order of appearance)
 
 1. [Make Us Proud](http://www.makeusproud.com/)
 2. [Barbican, on Flickr](https://www.flickr.com/photos/37996583811@N01/14973588367/)
