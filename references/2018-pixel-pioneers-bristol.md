@@ -10,7 +10,6 @@
 
 1. [yaili on Twitter](https://twitter.com/yaili)
 1. [Shoreditch Street Art Tours: Flashback – Banksy v. Bristol Museum and Art Gallery 2009](https://www.shoreditchstreetarttours.co.uk/flashback-banksy-v-bristol-museum-and-art-gallery-2009/)
-1. **missing**
 2. [Make Us Proud](http://www.makeusproud.com/)
 2. [YLD](https://yld.io/)
 2. [Barbican, on Flickr](https://www.flickr.com/photos/37996583811@N01/14973588367/)
@@ -32,7 +31,10 @@
 17. [MailChimp Content Style Guide](https://styleguide.mailchimp.com/)
 18. [Form structure - Service Manual - GOV.UK](https://www.gov.uk/service-manual/design/form-structure)
 19. [GDSW9862, on Flickr](https://www.flickr.com/photos/gdsteam/34928544393/)
-20. **missing**
+20. [Mixpanel Design](http://mixpanel.github.io/mixpanel-common/examples/style-guide-new/)
+21. [Heroku Purple 3](https://design.herokai.com/purple3/docs/)
+21. [WeWork Plasma Storybook](http://plasma.guide/dev/storybook/)
+21. [Trello Nachos](https://design.trello.com/)
 22. [A Design System isn’t a Project. It’s a Product, Serving Products.](https://medium.com/eightshapes-llc/a-design-system-isn-t-a-project-it-s-a-product-serving-products-74dcfffef935)
 23. [Vanilla Framework proposals](https://github.com/vanilla-framework/vanilla-framework/issues?q=label%3A%22WG%3A+Proposal%22+is%3Aclosed)
 24. [Vanilla Framework proposal issue](https://github.com/vanilla-framework/vanilla-framework/issues/1355)
