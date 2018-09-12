@@ -15,7 +15,7 @@
 2. [Barbican Centre](https://en.wikipedia.org/wiki/Barbican_Centre)
 5. [Vanilla Framework](https://vanillaframework.io/)
 7. **Photo credit:** [Around the Garden, on Flickr](https://www.flickr.com/photos/chiotsrun/7062663295/)
-7. **Photo credit:** [leader of the pack](https://www.flickr.com/photos/29233640@N07/37079306800)
+7. **Photo credit:** [leader of the pack, on Flickr](https://www.flickr.com/photos/29233640@N07/37079306800)
 23. [Vanilla Framework proposals](https://github.com/vanilla-framework/vanilla-framework/issues?q=label%3A%22WG%3A+Proposal%22+is%3Aclosed)
 24. [Vanilla Framework proposal issue](https://github.com/vanilla-framework/vanilla-framework/issues/1355)
 15. [Vanilla process diagram](https://coggle.it/diagram/V0hkiP976OIbGpy8)
