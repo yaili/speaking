@@ -8,16 +8,6 @@
 
 ## Links (in order of appearance)
 
-1. # Keeping your design system alive
-
-## Event details
-
-- Name: Pixel Pioneers
-- Date: 8 June 2018
-- Location: Bristol, UK
-
-## Links (in order of appearance)
-
 1. [yaili on Twitter](https://twitter.com/yaili)
 2. [Make Us Proud](http://www.makeusproud.com/)
 2. [YLD](https://yld.io/)
