@@ -1,4 +1,4 @@
-# Keeping your design system alive
+# Design systems: how to foster participation
 
 ## Event details
 
