@@ -5,6 +5,7 @@
 - Name: Digital Product London: Episode 4
 - Date: 12 September 2018
 - Location: London, UK
+- Short URL of these notes: http://bit.ly/dpl-ep4
 
 ## Links (in order of appearance)
 
