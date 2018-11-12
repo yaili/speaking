@@ -5,6 +5,7 @@
 - Name: Design Systems London
 - Date: 16 November 2018
 - Location: London, UK
+- Short URL of these notes: http://bit.ly/dsl-2018
 
 ## Links (in order of appearance)
 
