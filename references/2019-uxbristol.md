@@ -1,4 +1,4 @@
-# Designer who write (workshop)
+# Designers who write (workshop)
 
 ## Event details
 
