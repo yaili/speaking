@@ -21,7 +21,7 @@
 10. [Microsoft Accessibility](https://www.microsoft.com/en-us/accessibility)
 11. [Vanilla Framework proposal issue](https://github.com/canonical-web-and-design/vanilla-framework/issues/1355)
 12. [Google Drive](https://drive.google.com/)
-13. [SharePoint](https://products.office.com/en-gb/sharepoint/collaboration?ms.officeurl=sharepoint&rtc=1)
 14. [Dropbox](https://www.dropbox.com/)
+13. [SharePoint](https://products.office.com/en-gb/sharepoint/collaboration?ms.officeurl=sharepoint&rtc=1)
 15. [Trello](https://trello.com/)
 16. [Design systems: how to foster participation - video](https://noti.st/yaili/videos/hYc0cS)
