@@ -5,6 +5,7 @@
 - Name: Microsoft Design Talks
 - Date: 26 May 2020
 - Location: Online
+- [Slides](https://github.com/yaili/speaking/files/4688645/humans.vs.design.at.scale.pdf) (14 MB, PDF)
 
 ## Links (in order of appearance)
 
